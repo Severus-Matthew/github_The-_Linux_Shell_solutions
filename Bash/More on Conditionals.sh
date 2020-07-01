@@ -7,7 +7,7 @@ then
    echo EQUILATERAL
 elif [[($X == $Y) || ($Y == $Z) || ($X == $Z)]]
 then
-  echo ISOCELES
+  echo ISOSCELES
 else
    echo SCALENE
 fi
