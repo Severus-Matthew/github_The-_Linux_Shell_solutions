@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -t$'/t' -k2 -r -n
+sort -t$'\t' -k2 -r -n
