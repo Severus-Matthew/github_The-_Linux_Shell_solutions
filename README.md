@@ -4,7 +4,7 @@ Solutions to linux shell problems on hackerrank-BASH , TEXT PROCESSING , ARRAYS 
 #bash
 #grep
 #hackerrank
-#hackerrank solutions
+#hackerrank-solutions
 #hackerrank linux solutions
 #echo
 #sed
